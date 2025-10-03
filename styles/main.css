@@ -1,3 +1,13 @@
 body{
     background-color: rgb(11, 229, 237);
 }
+.box {
+  width: 300px;
+  padding: 20px;
+  border: 2px solid #333;
+  background-color: #f0f0f0;
+  color: #333;
+  font-family: Arial, sans-serif;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
